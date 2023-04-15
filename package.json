@@ -1,0 +1,11 @@
+{
+  "name": "votes_bootstraper",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node votes_bootstraper.js"
+  },
+  "dependencies": {
+    "amqplib": "^0.10.3",
+    "pg": "^8.10.0"
+  }
+}
